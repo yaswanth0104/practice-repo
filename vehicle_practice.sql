@@ -31,3 +31,5 @@ select * from vehicle where vh_brand ='Maruthi';
 select * from vehicle where vhid is null;
 
 delete from vehicle where vhid is null;
+
+--
