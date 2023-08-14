@@ -32,4 +32,4 @@ select * from vehicle where vhid is null;
 
 delete from vehicle where vhid is null;
 
---
+--added from git bash
